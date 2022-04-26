@@ -1,2 +1,5 @@
 # c_primer_plus
-excise code of C Primer Plus
+《C Primer Plus》习题代码。
+
+## 参考
+[习题参考答案](https://dl-01.vips100.com/v3/82b15114b9d18a7d7b63ab27697f3c9619401127a3d38a99bb005c726897de60/delivery/data/af04a0f79ff04560950aa077bab91d87/?auth_key=1650883126-08daba0ed5224caf9da2f7093234a422-0-ff21e099ddad7ed85a26f583034990e8&LBC=meta&token=c756140cb7d1f78ac60990e285988a16e7e551b370fb371a4c4b6d84bd41fb24f6a3d182a66135c097cdd4fc0bc70278240ff8ebbd280edc7378cf9efde674cfc14bcedba4b83c94c14a4dfa67f47139&aid=315742&rec_log=true&neid=505307869&nsid=673116&lb_cl=c&neid=505307869)
