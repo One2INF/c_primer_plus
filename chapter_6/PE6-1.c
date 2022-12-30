@@ -9,6 +9,7 @@ int main(void)
 
   for(i = 0; i < STR_SIZE; ++i)
     str[i] = 'a' + i;
+
   for(i = 0; i < STR_SIZE; ++i)
     printf("%c ", str[i]);
   printf("\n");
